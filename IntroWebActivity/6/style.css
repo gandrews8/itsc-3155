@@ -1,0 +1,11 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    background-color: red;
+    color:white;
+}
+.content{
+    margin-bottom: 12px;
+}
+#main-title{
+    text-align: center;
+}
